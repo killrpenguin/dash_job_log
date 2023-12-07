@@ -1,0 +1,21 @@
+.form_names {
+	padding-right: 30px;	
+	text-align: right;
+}
+
+.form_element {
+	width: 330px;
+  	border: 15px solid blue;
+  	padding: 50px;
+  	margin: auto;
+}
+
+.table_row {
+	margin: auto;
+	padding: 10px;
+}
+
+.button {
+	margin-top: 15px;
+	margin-left: 262px;
+}
